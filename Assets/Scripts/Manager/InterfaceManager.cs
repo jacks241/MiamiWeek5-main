@@ -33,7 +33,7 @@ public class InterfaceManager : MonoBehaviour
         
         text1 = joinPlayerOne.GetComponentInChildren<Text>();
         text1.text = "Leave Player One";
-
+        //joinPlayerOne.onClick.AddListener(() => 
         //TODO flip text to say "Leave Player One"
         //TODO on click after player has joined, remove player
     }
