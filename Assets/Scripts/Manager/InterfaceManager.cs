@@ -13,7 +13,9 @@ public class InterfaceManager : MonoBehaviour
     private Button addPlayerTwo;
     Text text1;
     Text text2;
-    
+    bool Player1Joined;
+    bool Player2Joined;
+
 
     //TODO: Add PlayerTwoButton reference
 
